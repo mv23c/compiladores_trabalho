@@ -46,7 +46,6 @@ uv run pytest
 ### 📚 Referências
 
 * Robert Nystrom — *Crafting Interpreters*
-* Repositório de referência do professor [Fábio M. Mendes](https://fabiommendes.github.io/craftinginterpreters/)
 * Testes automatizados fornecidos pela disciplina
 
 ---
